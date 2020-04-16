@@ -1,0 +1,1 @@
+{% assign d = fecha | date: "%-w" | minus: 1 %}{{ site.data.fechas.dias[d] }} {{ fecha | date: "%-d de " }}{% assign m = fecha | date: "%-m" | minus: 1 %}{{ site.data.fechas.meses[m] }} a las {{ fecha | date: "%-H:%M"}}hs

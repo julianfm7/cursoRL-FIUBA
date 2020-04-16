@@ -1,1 +1,6 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
+lang: es-AR
+google_analytics: UA-162778733-1
+title: Reinforcement Learning - FIUBA - 2020 cuat. 1
+plugins:
+  - jemoji
