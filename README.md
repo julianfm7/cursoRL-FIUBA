@@ -2,7 +2,7 @@
 En esta página se encuentra el contenido de la materia Aprendizaje por Refuerzo dictada por Julián Martínez durante el 1er cuatrimestre del 2020. 
 El contenido de este curso dista mucho de ser definitivo y puede contener errores. La mayor parte del contenido sigue de cerca los temas desarrollados en los cursos de DeepMind de Reinforcement Learning del [2015](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) (David Silver) y del [2018](https://deepmind.com/learning-resources/reinforcement-learning-lectures-series-2018) (Hado van Hasselt). En algunos temas entro un poco más en detalle en la matemática (producto de mi sesgo de matemático probabilista).  
 
-[Programa tentativo de la materia:](https://github.com/julianfm7/cursoRL-FIUBA/blob/master/Programa-RL.pdf)
+[Programa tentativo de la materia](https://github.com/julianfm7/cursoRL-FIUBA/blob/master/Programa-RL.pdf)
 
 ## [Videos](https://www.youtube.com/playlist?list=PLJRWzEGVolsKf7sWU2Myi_5To0x9ja9D9) 
 Estos videos no fueron pensados con el propósito de realizar clases asincrónicas, las cuales se complementaban con reuniones semanales donde se discutían y/o detallaban las temáticas expuestas en torno a las preguntas que surgían. En particular la clase 2 es una clase sincrónica la cual fue grabada, quedando un tanto desordenada por lo que espero grabarla nuevamente en un futuro pero en el formato de los otros videos. 
