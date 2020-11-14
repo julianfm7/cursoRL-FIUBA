@@ -7,7 +7,7 @@ La mayor parte del contenido sigue de cerca los temas desarrollados (desde mi pe
 [Programa tentativo de la materia](https://github.com/julianfm7/cursoRL-FIUBA/blob/master/Programa-RL.pdf)
 
 ## [Videos](https://www.youtube.com/playlist?list=PLJRWzEGVolsKf7sWU2Myi_5To0x9ja9D9) 
-Estos videos no fueron pensados con el propósito de realizar clases asincrónicas, las cuales se complementaban con reuniones semanales donde se discutían y/o detallaban las temáticas expuestas en torno a las preguntas que surgían. En particular la clase 2 es una clase sincrónica la cual fue grabada, quedando un tanto desordenada por lo que espero grabarla nuevamente en un futuro pero en el formato de los otros videos. A causa de esto no se encuentra disponible en youtube pero pueden escribirme solicitando acceso a la misma (julianfm7@gmail.com).
+Estos videos fueron pensados con el propósito de realizar clases asincrónicas, las cuales se complementaban con reuniones semanales donde se discutían y/o detallaban las temáticas expuestas en torno a las preguntas que surgían. En particular la clase 2 es una clase sincrónica la cual fue grabada, quedando un tanto desordenada por lo que espero grabarla nuevamente en un futuro pero en el formato de los otros videos. A causa de esto no se encuentra disponible en youtube pero pueden escribirme solicitando acceso a la misma (julianfm7@gmail.com).
 
 ## Código y Slides
 A lo largo de los videos se explica brevemente como utilizar Google Colab y como importar los notebooks que se usan en la clase, como también los que se propone completar a modo de ejercitación. Muchos de los ejemplos se desarrollan utilizando el toolkit [Gym](https://gym.openai.com/). 
@@ -52,6 +52,8 @@ Los notebooks y slides correspondientes a cada clase pueden encontrarse en este 
 
 ### Python y RL
 * [Repositorio dennybritz](https://github.com/aiot-tech/reinforcement-learning-David-Silver)
+
+* [Calmly](https://calmcode.io/)
 
 * [How to Think Like a ComputerScientist: Learning with Python 3](https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf)
 
