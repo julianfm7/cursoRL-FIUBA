@@ -25,6 +25,8 @@ Los notebooks y slides correspondientes a cada clase pueden encontrarse en este 
 * [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/user/introduction.html#what-this-is)
 
 ### Base de probabilidad
+* [Probability and Random Processes]:(https://books.google.com.ar/books/about/Probability_and_Random_Processes.html?id=G3ig-0M4wSIC&redir_esc=y)
+
 * [Construction of Stochastic Processes, Coupling and Regeneration; Pablo A. Ferrari, Antonio Galves](https://docs.ufpr.br/~lucambio/CE222/2S2011/oct2001.pdf)
 
 * Pierre Bremaud; Markov chains: Gibbs fields, Monte Carlo simulation, and queues.
